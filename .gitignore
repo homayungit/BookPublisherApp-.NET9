@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CSharp/CopilotIndices/17.14.536.4876
+/.vs/CSharp/FileContentIndex
+/CSharp/obj
+/PublishData/obj
+/PublisherDomain/bin/Debug/net9.0
+/PublisherDomain/obj
